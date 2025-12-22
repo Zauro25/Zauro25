@@ -26,7 +26,6 @@ Sometimes I code, sometimes I design, sometimes I just overthink about myself.
 - 💻 Web Development (Frontend & Backend)
 - 🎨 Graphic Design & Visual Editing
 - 📸 Photography & Videography
-- 🧠 Interested in AI, data, and creative technology
 
 ---
 
