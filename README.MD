@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Zauro
 
-Information Systems student | Coding Enthusiast | Designer | Videographer  
+Information Systems student | Coding Enthusiast | Designer | Photographer | Videographer  
 I work at the intersection of technology, design, and visual storytelling.  
 Sometimes I code, sometimes I design, sometimes I just overthink about myself.
 
