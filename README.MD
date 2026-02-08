@@ -1,12 +1,12 @@
-# 👋 Hi, I'm Zauro
+# Hi, I'm Zauro
 
-Final year Information Systems student | Coding Enthusiast | Designer | Photographer | Videographer  
-I work at the intersection of technology, design, and visual storytelling.  
-Sometimes I code, sometimes I design, sometimes I just overthink about myself.
+Final-year Information Systems student with a strong interest in software development, system design, and visual storytelling.  
+I work across technology, design, and media production.  
+Sometimes I build systems, sometimes I design visuals, sometimes I overanalyze my own roadmap.
 
 ---
 
-## 🔗 Connect with me
+## Connect with me
 
 <p align="left">
   <a href="https://www.youtube.com/@zauro2573" target="_blank">
@@ -22,11 +22,26 @@ Sometimes I code, sometimes I design, sometimes I just overthink about myself.
 
 ---
 
-## ⚙️ Skills & Interests
-- 💻 Web Development (Frontend & Backend)
-- 🎨 Graphic Design & Visual Editing
-- 📸 Photography & Videography
+## Tech Stack
+
+| Category | Technologies |
+|--------|-------------|
+| Frontend | JavaScript, React, Next.js, Vue.js, Tailwind CSS |
+| Backend | Laravel (PHP), Django (Python), Go |
+| Databases (SQL) | MySQL, PostgreSQL |
+| Databases (NoSQL) | MongoDB, Firebase |
+| System | Linux |
 
 ---
 
-> “Learning consistently beats learning fast, like Power Rangers Pink.”
+## Interests
+
+- Web application development (frontend & backend)
+- System design and backend architecture
+- Graphic design and visual editing
+- Photography and videography
+
+---
+
+> Learning consistently beats learning fast.
+> Be the best like Power Rangers Pink :v
