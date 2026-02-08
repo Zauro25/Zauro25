@@ -44,4 +44,6 @@ Sometimes I build systems, sometimes I design visuals, sometimes I overanalyze m
 ---
 
 > Learning consistently beats learning fast.
+
+---
 > Be the best like Power Rangers Pink :v
